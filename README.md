@@ -5,8 +5,7 @@
 <h2 align="center">Thats about me!</h2>
   <h3 align="center"> Contact me :D </h3>
 <p align="left">
-<a href="https://discord.com/users/568807202798698496" target="_blank" rel="noopener">
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/568807202798698496" alt="Discord Presence" height="30" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/568807202798698496)](https://discord.com/users/568807202798698496)
 </a>
 </p>
   <h1 align="left">The languages and tools i use</h1>
