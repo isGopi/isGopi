@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
+<h2 align="left">Discord Presence</h2>
 <a href="https://discord.com/users/568807202798698496" target="_blank" rel="noopener">
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/568807202798698496" alt="Discord Presence" height="200" />
 </a>
