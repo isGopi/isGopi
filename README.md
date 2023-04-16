@@ -8,7 +8,6 @@
 <a href="https://discord.com/users/568807202798698496" target="_blank" rel="noopener">
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/568807202798698496" alt="Discord Presence" height="30" />
 </a>
-
 </p>
   <h1 align="left">The languages and tools i use</h1>
 <table align="left">
