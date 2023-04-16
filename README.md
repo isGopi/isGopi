@@ -4,7 +4,10 @@
 <p align="center">As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges. The majority of my free time is spent playing video games</p>
 <h2 align="center">Thats about me!</h2>
   <h3 align="center"> Contact me :D </h3>
-<p align="left">
+<p align="center">
+  <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 <a href="https://discord.com/users/568807202798698496" target="_blank" rel="noopener">
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/568807202798698496" alt="Discord Presence" height="200" />
 </a>
