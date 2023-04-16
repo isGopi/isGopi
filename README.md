@@ -7,9 +7,16 @@
 <p align="center">
 <a href="https://discord.com/users/568807202798698496" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi&label=Profile%20views&color=0e75b6&style=flat" alt="gopi" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gopi&label=Profile%20views&color=0e75b6&style=flat" alt="gopi>
+</p>
 
-![Discord](https://discord.c99.nl/widget/theme-4/568807202798698496.png)
+<p align="left">
+  <a href="https://discord.gg/<server-id>">
+    <img src="https://discord.com/api/guilds/568807202798698496/widget.png?style=banner4" alt="Discord Server">
+  </a>
+</p>
+
 </p>
   <h1 align="left">The languages and tools i use</h1>
 <table align="left">
