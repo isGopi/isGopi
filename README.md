@@ -13,10 +13,6 @@
 <a href="https://discord.com/users/568807202798698496" target="_blank" rel="noopener">
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/568807202798698496" alt="Discord Presence" height="200" />
 </a>
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/xgurpreet__/" data-instgrm-version="xx">
-<a href="https://www.instagram.com/p/xgurpreet__/" target="_blank"></a>
-</blockquote>
-<script async defer src="//www.instagram.com/embed.js"></script>
 
 </p>
   <h1 align="left">The languages and tools i use</h1>
