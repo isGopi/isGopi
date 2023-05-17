@@ -45,8 +45,8 @@
 
 <div align="right">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreet707&show_icons=true&locale=en&layout=compact" alt="gurpreet707" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gurpreet707&show_icons=true&locale=en" alt="gurpreet707" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isGopi&show_icons=true&locale=en&layout=compact" alt="isGopi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=isGopi&show_icons=true&locale=en" alt="isGopi" />
   </p>
 </div>
 
